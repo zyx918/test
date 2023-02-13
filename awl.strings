@@ -1,0 +1,5 @@
+com.panda.videoliveplatform.activity.WelcomeActivity
+com.panda.videoliveplatform.activity.SplashWakeActivity
+com.panda.videoliveplatform.activity.MainFragmentActivity
+com.panda.videoliveplatform.activity.LiveRoomActivity
+leakcanary.internal.activity.LeakLauncherActivity

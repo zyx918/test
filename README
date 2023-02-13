@@ -1,0 +1,20 @@
+AIMonkey
+
+优势
+高速点击，每秒 10-15 action！
+多平台兼容！ 同时兼容Android 5-11
+轻量极简！
+
+手机设置：
+打开开发者选项，1. 缓冲区日志大小设置为最大 2. 允许USB调试，USB安装，USB模拟点击
+
+快速开始
+git clone git@git.n.xiaomi.com:mipushqa/aimonkey.git
+cd aimonkey
+python run.py runmonkey -s xxxxx(设备id) --runningminutes 150　--seed 0（执行时间 minutes）
+
+查看全部命令
+python run.py runmonkey --help
+
+查看测试结果
+output
